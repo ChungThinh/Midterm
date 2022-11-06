@@ -1,0 +1,2 @@
+fsm_simple_button.c:9:6:display	8	static
+fsm_simple_button.c:28:6:fsm_simple_button_run	8	static
